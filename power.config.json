@@ -1,8 +1,8 @@
 {
-  "appId": "",
-  "appDisplayName": "A REMPLIR NOM DE L'APPLICATION",
+  "appId": "3e0737b4-4bd7-476d-89ee-37992e32ae1a",
+  "appDisplayName": "App de merde en vrai code",
   "description": null,
-  "environmentId": "ce7183b0-3bb5-ea9c-8a38-d1e340e360fc",
+  "environmentId": "9433fd7b-39f2-e2ab-8d54-73d367a383f9",
   "buildPath": "./dist",
   "buildEntryPoint": "index.html",
   "logoPath": "Default",
